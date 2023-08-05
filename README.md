@@ -21,6 +21,7 @@ used in the project:
 *   2-GPT
   
 *   pytroch
+  
 <h2>Challenges</h2>
 
 The Dataset is limited to Indian cuisine.

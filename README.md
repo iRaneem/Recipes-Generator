@@ -2,7 +2,7 @@
 <h1 align="center" id="title">Recipes-Generator</h1>
 <p id="description"> Many people may lack the cooking skills or knowledge necessary to create meals from scratch. A recipe generator system can help solve this problem by providing users with a quick and easy way to access a wide range of recipes.
  
- ![AI Resturant Logo](https://github.com/iRaneem/Recipes-Generator/blob/main/logo.jpg)
+ ![Logo](https://github.com/iRaneem/Recipes-Generator/blob/main/logo.jpg)
  
 <h2>🚀 Tabel of content</h2>
 files are : 

@@ -21,3 +21,22 @@ used in the project:
 *   2-GPT
   
 *   pytroch
+<h2>Challenges</h2>
+
+The Dataset is limited to Indian cuisine.
+
+recipe generated relies on available ingredients only.
+
+no evaluation method
+
+passive experience
+
+ <h2> Proposed Modifications </h2>
+ 
+Collected datasets from all the cuisine
+
+Additional feature, (e.g. you can add the cuisine as a preference).
+
+Propose evaluation method
+
+interactive experience

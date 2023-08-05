@@ -22,7 +22,7 @@ used in the project:
   
 *   pytroch
   
-<h2>Challenges</h2>
+<h2> Baseline model Challenges</h2>
 
 The Dataset is limited to Indian cuisine.
 
